@@ -1,0 +1,777 @@
+the fremont project
+Looking for a new adventure?
+
+Do you love to code?
+If so, please click next below.
+
+Do you really love to code?
+Please click next below.
+
+So, how much do you love to code?
+[hint] You may want to code now... or click next.
+
+I thought you love to code?
+I would put those skills to use now.
+
+No joke...
+It's going to be rough if you don't code.
+
+If you're still reading...
+You're a clicking machine. Best of luck.
+
+Have you ever heard this one...
+Developers don't byte, they nibble a bit.
+
+A joke for your troubles.
+Programming Department: Mistakes made while you wait.
+
+A joke for your troubles.
+hAS ANYONE SEEN MY cAPSLOCK KEY?
+
+A joke for your troubles.
+Multitasking - screwing up several things at once.
+
+A joke for your troubles.
+Nerd: someone on the Dork Side of the Farce.
+
+A joke for your troubles.
+Intel - still number 0.999873464508.
+
+A joke for your troubles.
+The Definition of an Upgrade: Take old bugs out, put new ones in.
+
+A joke for your troubles.
+As far as we know, our computer has never had an undetected error.
+
+A joke for your troubles.
+The determined programmer can write a FORTRAN program in any language.
+
+A joke for your troubles.
+The generation of random numbers is too important to be left to chance.
+
+A joke for your troubles.
+One picture is worth 128K.
+
+A joke for your troubles.
+Programming is an art form that fights back.
+
+A joke for your troubles.
+System has violated data integrity. Delete all data? Y/y __
+
+A joke for your troubles.
+Never trust a computer you can't lift. - Stan Masor
+
+A joke for your troubles.
+ISDN: I Still Don't kNow
+
+A joke for your troubles.
+H lp! S m b d st l ll th v w ls fr m m k yb rd!
+
+A joke for your troubles.
+Old programmers never die; they just give up their resources.
+
+A joke for your troubles.
+Adding manpower to a late software project makes it later.
+
+A joke for your troubles.
+My computer NEVER cras@#%^TU*NO CARRIER
+
+A joke for your troubles.
+One person's error is another person's data.
+
+A joke for your troubles.
+Real programs don't eat cache.
+
+A joke for your troubles.
+System halted. Press Enter key to continue.
+
+A joke for your troubles.
+My software never has bugs. It just develops random features.
+
+A joke for your troubles.
+All computers wait at the same speed.
+
+A joke for your troubles.
+COMMAND: A suggestion made to a computer.
+
+A joke for your troubles.
+Hidden DOS secret: add BUGS=OFF to your CONFIG.SYS
+
+A joke for your troubles.
+System going down at 5 pm to install scheduler bug.
+
+A joke for your troubles.
+The computer is mightier than the pen, the sword, and usually, the programmer.
+
+A joke for your troubles.
+Some programming languages manage to absorb change but withstand progress.
+
+A joke for your troubles.
+According to my calculations the problem doesn't exist.
+
+A joke for your troubles.
+I came, I saw, I deleted all your files.
+
+A joke for your troubles.
+If at first you don't succeed, call it version 1.0
+
+A joke for your troubles.
+I had a life once... now I have a computer and a modem.
+
+A joke for your troubles.
+Remember the good old days, when CPU was singular?
+
+A joke for your troubles.
+Hold a hard drive to your ear -- listen to the C:
+
+A joke for your troubles.
+RAM disk is not an installation procedure.
+
+A joke for your troubles.
+In my next life I'm going to have more memory installed
+
+A joke for your troubles.
+Mental backup in progress - Do Not Disturb!
+
+A joke for your troubles.
+Klingon prompt: strike any user when ready.
+
+A joke for your troubles.
+Manual Writer's Creed: Garbage in, gospel out.
+
+A joke for your troubles.
+ASCII a stupid question, get a stupid ANSI!
+
+A joke for your troubles.
+I am logged in, therefore I am.
+
+A joke for your troubles.
+System has erased all work in progress. Press any key to ignore and continue.
+
+A joke for your troubles.
+Hard Disk space: the final frontier!
+
+A joke for your troubles.
+I are Pentium of Borg. Division is futile. You will be approximated.
+
+A joke for your troubles.
+A bug in the code is worth two in the documentation.
+
+A joke for your troubles.
+Backup not found: (A)bort (R)etry (P)anic
+
+A joke for your troubles.
+Never trust a computer you can't throw out the window. - S. Hunt
+
+A joke for your troubles.
+Network: anything reticulated or decussated at equal intervals, with interstices between the intersections.
+
+A joke for your troubles.
+PCMCIA: People Can't Memorize Computer Industry Acronyms
+
+A joke for your troubles.
+Shift to the left! Shift to the right! Pop up, push down, byte, byte, byte!
+
+A joke for your troubles.
+I know I'm supposed to back up my files, but I still haven't found reverse on my PC.
+
+A joke for your troubles.
+Hardware: The parts of a computer system that can be kicked.
+
+A joke for your troubles.
+Remember, UNIX spelled backwards is XINU.
+
+A joke for your troubles.
+MIPS: Meaningless Indicator of Processor Speed.
+
+A joke for your troubles.
+Programming Department: Mistakes made while you wait.
+
+A joke for your troubles.
+hAS ANYONE SEEN MY cAPSLOCK KEY?
+
+A joke for your troubles.
+Multitasking - screwing up several things at once.
+
+A joke for your troubles.
+Nerd: someone on the Dork Side of the Farce.
+
+A joke for your troubles.
+Intel - still number 0.999873464508.
+
+A joke for your troubles.
+The Definition of an Upgrade: Take old bugs out, put new ones in.
+
+A joke for your troubles.
+As far as we know, our computer has never had an undetected error.
+
+A joke for your troubles.
+The determined programmer can write a FORTRAN program in any language.
+
+A joke for your troubles.
+The generation of random numbers is too important to be left to chance.
+
+A joke for your troubles.
+One picture is worth 128K.
+
+A joke for your troubles.
+Programming is an art form that fights back.
+
+A joke for your troubles.
+System has violated data integrity. Delete all data? Y/y __
+
+A joke for your troubles.
+Never trust a computer you can't lift. - Stan Masor
+
+A joke for your troubles.
+ISDN: I Still Don't kNow
+
+A joke for your troubles.
+H lp! S m b d st l ll th v w ls fr m m k yb rd!
+
+A joke for your troubles.
+Old programmers never die; they just give up their resources.
+
+A joke for your troubles.
+Adding manpower to a late software project makes it later.
+
+A joke for your troubles.
+My computer NEVER cras@#%^TU*NO CARRIER
+
+A joke for your troubles.
+One person's error is another person's data.
+
+A joke for your troubles.
+Real programs don't eat cache.
+
+A joke for your troubles.
+System halted. Press Enter key to continue.
+
+A joke for your troubles.
+My software never has bugs. It just develops random features.
+
+A joke for your troubles.
+All computers wait at the same speed.
+
+A joke for your troubles.
+COMMAND: A suggestion made to a computer.
+
+A joke for your troubles.
+Hidden DOS secret: add BUGS=OFF to your CONFIG.SYS
+
+A joke for your troubles.
+System going down at 5 pm to install scheduler bug.
+
+A joke for your troubles.
+The computer is mightier than the pen, the sword, and usually, the programmer.
+
+A joke for your troubles.
+Some programming languages manage to absorb change but withstand progress.
+
+A joke for your troubles.
+According to my calculations the problem doesn't exist.
+
+A joke for your troubles.
+I came, I saw, I deleted all your files.
+
+A joke for your troubles.
+If at first you don't succeed, call it version 1.0
+
+A joke for your troubles.
+I had a life once... now I have a computer and a modem.
+
+A joke for your troubles.
+Remember the good old days, when CPU was singular?
+
+A joke for your troubles.
+Hold a hard drive to your ear -- listen to the C:
+
+A joke for your troubles.
+RAM disk is not an installation procedure.
+
+A joke for your troubles.
+In my next life I'm going to have more memory installed
+
+A joke for your troubles.
+Mental backup in progress - Do Not Disturb!
+
+A joke for your troubles.
+Klingon prompt: strike any user when ready.
+
+A joke for your troubles.
+Manual Writer's Creed: Garbage in, gospel out.
+
+A joke for your troubles.
+ASCII a stupid question, get a stupid ANSI!
+
+A joke for your troubles.
+I am logged in, therefore I am.
+
+A joke for your troubles.
+System has erased all work in progress. Press any key to ignore and continue.
+
+A joke for your troubles.
+Hard Disk space: the final frontier!
+
+A joke for your troubles.
+I are Pentium of Borg. Division is futile. You will be approximated.
+
+A joke for your troubles.
+A bug in the code is worth two in the documentation.
+
+A joke for your troubles.
+Backup not found: (A)bort (R)etry (P)anic
+
+A joke for your troubles.
+Never trust a computer you can't throw out the window. - S. Hunt
+
+A joke for your troubles.
+Network: anything reticulated or decussated at equal intervals, with interstices between the intersections.
+
+A joke for your troubles.
+PCMCIA: People Can't Memorize Computer Industry Acronyms
+
+A joke for your troubles.
+Shift to the left! Shift to the right! Pop up, push down, byte, byte, byte!
+
+A joke for your troubles.
+I know I'm supposed to back up my files, but I still haven't found reverse on my PC.
+
+A joke for your troubles.
+Hardware: The parts of a computer system that can be kicked.
+
+A joke for your troubles.
+Remember, UNIX spelled backwards is XINU.
+
+A joke for your troubles.
+MIPS: Meaningless Indicator of Processor Speed.
+
+A joke for your troubles.
+Programming Department: Mistakes made while you wait.
+
+A joke for your troubles.
+hAS ANYONE SEEN MY cAPSLOCK KEY?
+
+A joke for your troubles.
+Multitasking - screwing up several things at once.
+
+A joke for your troubles.
+Nerd: someone on the Dork Side of the Farce.
+
+A joke for your troubles.
+Intel - still number 0.999873464508.
+
+A joke for your troubles.
+The Definition of an Upgrade: Take old bugs out, put new ones in.
+
+A joke for your troubles.
+As far as we know, our computer has never had an undetected error.
+
+A joke for your troubles.
+The determined programmer can write a FORTRAN program in any language.
+
+A joke for your troubles.
+The generation of random numbers is too important to be left to chance.
+
+A joke for your troubles.
+One picture is worth 128K.
+
+A joke for your troubles.
+Programming is an art form that fights back.
+
+A joke for your troubles.
+System has violated data integrity. Delete all data? Y/y __
+
+A joke for your troubles.
+Never trust a computer you can't lift. - Stan Masor
+
+A joke for your troubles.
+ISDN: I Still Don't kNow
+
+A joke for your troubles.
+H lp! S m b d st l ll th v w ls fr m m k yb rd!
+
+A joke for your troubles.
+Old programmers never die; they just give up their resources.
+
+A joke for your troubles.
+Adding manpower to a late software project makes it later.
+
+A joke for your troubles.
+My computer NEVER cras@#%^TU*NO CARRIER
+
+A joke for your troubles.
+One person's error is another person's data.
+
+A joke for your troubles.
+Real programs don't eat cache.
+
+A joke for your troubles.
+System halted. Press Enter key to continue.
+
+A joke for your troubles.
+My software never has bugs. It just develops random features.
+
+A joke for your troubles.
+All computers wait at the same speed.
+
+A joke for your troubles.
+COMMAND: A suggestion made to a computer.
+
+A joke for your troubles.
+Hidden DOS secret: add BUGS=OFF to your CONFIG.SYS
+
+A joke for your troubles.
+System going down at 5 pm to install scheduler bug.
+
+A joke for your troubles.
+The computer is mightier than the pen, the sword, and usually, the programmer.
+
+A joke for your troubles.
+Some programming languages manage to absorb change but withstand progress.
+
+A joke for your troubles.
+According to my calculations the problem doesn't exist.
+
+A joke for your troubles.
+I came, I saw, I deleted all your files.
+
+A joke for your troubles.
+If at first you don't succeed, call it version 1.0
+
+A joke for your troubles.
+I had a life once... now I have a computer and a modem.
+
+A joke for your troubles.
+Remember the good old days, when CPU was singular?
+
+A joke for your troubles.
+Hold a hard drive to your ear -- listen to the C:
+
+A joke for your troubles.
+RAM disk is not an installation procedure.
+
+A joke for your troubles.
+In my next life I'm going to have more memory installed
+
+A joke for your troubles.
+Mental backup in progress - Do Not Disturb!
+
+A joke for your troubles.
+Klingon prompt: strike any user when ready.
+
+A joke for your troubles.
+Manual Writer's Creed: Garbage in, gospel out.
+
+A joke for your troubles.
+ASCII a stupid question, get a stupid ANSI!
+
+A joke for your troubles.
+I am logged in, therefore I am.
+
+A joke for your troubles.
+System has erased all work in progress. Press any key to ignore and continue.
+
+A joke for your troubles.
+Hard Disk space: the final frontier!
+
+A joke for your troubles.
+I are Pentium of Borg. Division is futile. You will be approximated.
+
+A joke for your troubles.
+A bug in the code is worth two in the documentation.
+
+A joke for your troubles.
+Backup not found: (A)bort (R)etry (P)anic
+
+A joke for your troubles.
+Never trust a computer you can't throw out the window. - S. Hunt
+
+A joke for your troubles.
+Network: anything reticulated or decussated at equal intervals, with interstices between the intersections.
+
+A joke for your troubles.
+PCMCIA: People Can't Memorize Computer Industry Acronyms
+
+A joke for your troubles.
+Shift to the left! Shift to the right! Pop up, push down, byte, byte, byte!
+
+A joke for your troubles.
+I know I'm supposed to back up my files, but I still haven't found reverse on my PC.
+
+A joke for your troubles.
+Hardware: The parts of a computer system that can be kicked.
+
+A joke for your troubles.
+Remember, UNIX spelled backwards is XINU.
+
+A joke for your troubles.
+MIPS: Meaningless Indicator of Processor Speed.
+
+A joke for your troubles.
+Programming Department: Mistakes made while you wait.
+
+A joke for your troubles.
+hAS ANYONE SEEN MY cAPSLOCK KEY?
+
+A joke for your troubles.
+Multitasking - screwing up several things at once.
+
+A joke for your troubles.
+Nerd: someone on the Dork Side of the Farce.
+
+A joke for your troubles.
+Intel - still number 0.999873464508.
+
+A joke for your troubles.
+The Definition of an Upgrade: Take old bugs out, put new ones in.
+
+A joke for your troubles.
+As far as we know, our computer has never had an undetected error.
+
+A joke for your troubles.
+The determined programmer can write a FORTRAN program in any language.
+
+A joke for your troubles.
+The generation of random numbers is too important to be left to chance.
+
+A joke for your troubles.
+One picture is worth 128K.
+
+A joke for your troubles.
+Programming is an art form that fights back.
+
+A joke for your troubles.
+System has violated data integrity. Delete all data? Y/y __
+
+A joke for your troubles.
+Never trust a computer you can't lift. - Stan Masor
+
+A joke for your troubles.
+ISDN: I Still Don't kNow
+
+A joke for your troubles.
+H lp! S m b d st l ll th v w ls fr m m k yb rd!
+
+A joke for your troubles.
+Old programmers never die; they just give up their resources.
+
+A joke for your troubles.
+Adding manpower to a late software project makes it later.
+
+A joke for your troubles.
+My computer NEVER cras@#%^TU*NO CARRIER
+
+A joke for your troubles.
+One person's error is another person's data.
+
+A joke for your troubles.
+Real programs don't eat cache.
+
+A joke for your troubles.
+System halted. Press Enter key to continue.
+
+A joke for your troubles.
+My software never has bugs. It just develops random features.
+
+A joke for your troubles.
+All computers wait at the same speed.
+
+A joke for your troubles.
+COMMAND: A suggestion made to a computer.
+
+A joke for your troubles.
+Hidden DOS secret: add BUGS=OFF to your CONFIG.SYS
+
+A joke for your troubles.
+System going down at 5 pm to install scheduler bug.
+
+A joke for your troubles.
+The computer is mightier than the pen, the sword, and usually, the programmer.
+
+A joke for your troubles.
+Some programming languages manage to absorb change but withstand progress.
+
+A joke for your troubles.
+According to my calculations the problem doesn't exist.
+
+A joke for your troubles.
+I came, I saw, I deleted all your files.
+
+A joke for your troubles.
+If at first you don't succeed, call it version 1.0
+
+A joke for your troubles.
+I had a life once... now I have a computer and a modem.
+
+A joke for your troubles.
+Remember the good old days, when CPU was singular?
+
+A joke for your troubles.
+Hold a hard drive to your ear -- listen to the C:
+
+A joke for your troubles.
+RAM disk is not an installation procedure.
+
+A joke for your troubles.
+In my next life I'm going to have more memory installed
+
+A joke for your troubles.
+Mental backup in progress - Do Not Disturb!
+
+A joke for your troubles.
+Klingon prompt: strike any user when ready.
+
+A joke for your troubles.
+Manual Writer's Creed: Garbage in, gospel out.
+
+A joke for your troubles.
+ASCII a stupid question, get a stupid ANSI!
+
+A joke for your troubles.
+I am logged in, therefore I am.
+
+A joke for your troubles.
+System has erased all work in progress. Press any key to ignore and continue.
+
+A joke for your troubles.
+Hard Disk space: the final frontier!
+
+A joke for your troubles.
+I are Pentium of Borg. Division is futile. You will be approximated.
+
+A joke for your troubles.
+A bug in the code is worth two in the documentation.
+
+A joke for your troubles.
+Backup not found: (A)bort (R)etry (P)anic
+
+A joke for your troubles.
+Never trust a computer you can't throw out the window. - S. Hunt
+
+A joke for your troubles.
+Network: anything reticulated or decussated at equal intervals, with interstices between the intersections.
+
+A joke for your troubles.
+PCMCIA: People Can't Memorize Computer Industry Acronyms
+
+A joke for your troubles.
+Shift to the left! Shift to the right! Pop up, push down, byte, byte, byte!
+
+A joke for your troubles.
+I know I'm supposed to back up my files, but I still haven't found reverse on my PC.
+
+A joke for your troubles.
+Hardware: The parts of a computer system that can be kicked.
+
+A joke for your troubles.
+Remember, UNIX spelled backwards is XINU.
+
+A joke for your troubles.
+MIPS: Meaningless Indicator of Processor Speed.
+
+A joke for your troubles.
+Programming Department: Mistakes made while you wait.
+
+A joke for your troubles.
+hAS ANYONE SEEN MY cAPSLOCK KEY?
+
+A joke for your troubles.
+Multitasking - screwing up several things at once.
+
+A joke for your troubles.
+Nerd: someone on the Dork Side of the Farce.
+
+A joke for your troubles.
+Intel - still number 0.999873464508.
+
+A joke for your troubles.
+The Definition of an Upgrade: Take old bugs out, put new ones in.
+
+A joke for your troubles.
+As far as we know, our computer has never had an undetected error.
+
+A joke for your troubles.
+The determined programmer can write a FORTRAN program in any language.
+
+A joke for your troubles.
+The generation of random numbers is too important to be left to chance.
+
+A joke for your troubles.
+One picture is worth 128K.
+
+A joke for your troubles.
+Programming is an art form that fights back.
+
+A joke for your troubles.
+System has violated data integrity. Delete all data? Y/y __
+
+A joke for your troubles.
+Never trust a computer you can't lift. - Stan Masor
+
+A joke for your troubles.
+ISDN: I Still Don't kNow
+
+A joke for your troubles.
+H lp! S m b d st l ll th v w ls fr m m k yb rd!
+
+A joke for your troubles.
+Old programmers never die; they just give up their resources.
+
+A joke for your troubles.
+Adding manpower to a late software project makes it later.
+
+A joke for your troubles.
+My computer NEVER cras@#%^TU*NO CARRIER
+
+A joke for your troubles.
+One person's error is another person's data.
+
+A joke for your troubles.
+Real programs don't eat cache.
+
+A joke for your troubles.
+System halted. Press Enter key to continue.
+
+A joke for your troubles.
+My software never has bugs. It just develops random features.
+
+A joke for your troubles.
+All computers wait at the same speed.
+
+A joke for your troubles.
+COMMAND: A suggestion made to a computer.
+
+A joke for your troubles.
+Hidden DOS secret: add BUGS=OFF to your CONFIG.SYS
+
+A joke for your troubles.
+System going down at 5 pm to install scheduler bug.
+
+A joke for your troubles.
+The computer is mightier than the pen, the sword, and usually, the programmer.
+
+A joke for your troubles.
+Some programming languages manage to absorb change but withstand progress.
+
+A joke for your troubles.
+According to my calculations the problem doesn't exist.
+
+A joke for your troubles.
+I came, I saw, I deleted all your files.
+
+A joke for your troubles.
+If at first you don't succeed, call it version 1.0
+
+A joke for your troubles.
+I had a life once... now I have a computer and a modem.
+
+A joke for your troubles.
+Remember the good old days, when CPU was singular?
+
+A joke for your troubles.
+Hold a hard drive to your ear -- listen to the C:
+
+Congratulations!
+Clicked your way here? Email determined@thefremontproject.com or...
+
